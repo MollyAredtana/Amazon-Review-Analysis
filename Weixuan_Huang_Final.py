@@ -458,7 +458,7 @@ if __name__ == '__main__':
         option = input(
             "Please choose an option:\n"
             "1: Word Cloud Visualization\n"
-            "2: General plots for the products\n"
+            "2: General plots for the product\n"
             "3: Predict the Model\n"
             "4: Exit\n"
             "Enter your choice: ")
